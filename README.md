@@ -1,24 +1,64 @@
-# 🌐 CloudHOF // Community & Issue Tracker
+<p align="center">
+  <img src="https://www.cloudhof.com/cloudhof_logo.jpg" alt="CloudHOF — Cloud Hall of Fame" width="120" height="120" />
+</p>
 
-> **The Zero-Trust, peer-verified Career Vault and anti-recruiter referral network.**
+<h1 align="center">CloudHOF // Community & Issue Tracker</h1>
 
-Welcome to the public hub for CloudHOF. This repository serves as our transparent issue tracker, feature request board, and community discussion space. Our core engine, AI microservices, and infrastructure remain in a private, proprietary codebase, but we build our product experience in public.
+<p align="center">
+  <strong>The zero-trust, peer-verified network for elite cloud engineers.</strong><br/>
+  Turn real technical achievements into verifiable proof-of-work.
+</p>
 
-## 🎯 What is CloudHOF?
-The modern hiring system is broken. Resumes are easily faked, recruiters operate in black boxes, and technical identity is fragmented. CloudHOF fixes this through a Zero-Trust architecture:
-
-* **Verified Identity:** We don't trust self-reported claims. We mathematically sync and verify your GitHub commits, Hugging Face models, Credly certifications, and YouTube media appearances.
-* **The AI Dossier Engine:** Our asynchronous microservices synthesize your verified footprint into a cohesive, executive-level technical identity.
-* **Peer-Vouched XP:** A gamified "Trench Tier" where reputation is built strictly through verified peer endorsements, not recruiter buzzwords.
-
-## 🛠️ How to Contribute as an Early Tester
-If you are part of our early access testing, your feedback is critical to shaping the platform.
-
-* **Found a Bug?** Open a [Bug Report](../../issues/new) to alert our engineering team. Please include your OS/Browser and steps to reproduce.
-* **Have an Idea?** Submit a [Feature Request](../../issues/new) and tell us about the problem you want solved.
-
-## 🔒 Security & Vulnerabilities
-Do **not** submit security vulnerabilities or exploits via public GitHub issues. If you find a critical flaw in our Zero-Trust verification or database routing, please contact the founders directly.
+<p align="center">
+  <a href="https://www.cloudhof.com">🌐 cloudhof.com</a> ·
+  <a href="https://www.cloudhof.com/members">👥 Members</a> ·
+  <a href="https://www.cloudhof.com/p/jeanlouis">🏆 Example dossier</a>
+</p>
 
 ---
-*Stay Dark. Stay Verified.*
+
+Welcome to the public hub for **CloudHOF (Cloud Hall of Fame)**. This repository is our
+transparent issue tracker, feature-request board, and community discussion space. The
+core engine, AI microservices, and infrastructure stay in a private, proprietary
+codebase — but we build the product experience in public.
+
+## 🎯 What is CloudHOF?
+
+The modern hiring system is broken. Resumes are easily faked, recruiters operate in
+black boxes, and technical identity is fragmented across a dozen platforms. **CloudHOF**
+fixes this with a zero-trust architecture:
+
+- **Verified Identity** — we don't trust self-reported claims. We mathematically sync and
+  verify GitHub commits, Hugging Face models, Credly/AWS/GCP/Azure certifications, and
+  media appearances, importing them directly from the issuer.
+- **Proof-of-Work** — real technical achievements become authenticated, portable credentials.
+- **Peer Verification** — roles and contributions are vouched for by verified colleagues.
+- **Cloud-Agnostic** — CloudHOF is the evolution of
+  [AWS Hall of Fame (awshof)](https://www.awshof.com), now spanning AWS, GCP, and Azure.
+
+## 🔗 Links
+
+| | |
+|---|---|
+| 🌐 Live platform | https://www.cloudhof.com |
+| 👥 Members directory | https://www.cloudhof.com/members |
+| 🏆 Example verified dossier | https://www.cloudhof.com/p/jeanlouis |
+| 🧬 Predecessor project | https://www.awshof.com |
+
+## 💬 Using this repo
+
+- **🐛 Found a bug?** Open an [issue](../../issues).
+- **💡 Have an idea?** File a [feature request](../../issues/new/choose).
+- **🗣️ Want to discuss?** Start a [discussion](../../discussions).
+
+## 🏷️ Topics
+
+`cloud` · `aws` · `gcp` · `azure` · `devops` · `certifications` · `cloud-engineering` ·
+`proof-of-work` · `professional-network`
+
+---
+
+<sub>CloudHOF is built by the team behind
+<a href="https://www.awshof.com">awshof</a>,
+<a href="https://bitgenius.io">BitGenius</a>, and
+<a href="https://www.tasteyculo.com">Tasteyculo</a>.</sub>
